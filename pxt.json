@@ -1,0 +1,15 @@
+{
+    "name": "Eric's GamePad",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "gamePad": "github:dfrobot/pxt-gamepad#0154557d216ad95c9534b3abe473ab600e5e9bca"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj"
+}
